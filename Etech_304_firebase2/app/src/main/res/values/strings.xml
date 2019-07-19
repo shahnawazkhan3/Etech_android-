@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Etech_304_firebase</string>
+
+    <array name="generic">
+
+        <item>Pop</item>
+        <item>Rock</item>
+        <item>Sufi</item>
+    </array>
+</resources>

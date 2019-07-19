@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146163137975",
+    "firebase_url": "https://android305-ac5dd.firebaseio.com",
+    "project_id": "android305-ac5dd",
+    "storage_bucket": "android305-ac5dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146163137975:android:dd5f75e5d85938bd",
+        "android_client_info": {
+          "package_name": "com.zaaviyah.etech_304_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146163137975-01mo6st1jkfpl9mhvm01079l2ii1euvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkLf15BOf9rL54APxebkcHiqWFfxT3Gr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146163137975-01mo6st1jkfpl9mhvm01079l2ii1euvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
